@@ -1,2 +1,2 @@
 # Capstone Project
-**** This  is the final capstone project for IBM data science certification
+* This  is the final capstone project for IBM data science certification
